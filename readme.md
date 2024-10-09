@@ -31,6 +31,7 @@ Helen Dataset Authors: For providing a comprehensive dataset.
 
 ![5](./assets/5.png) ![6](./assets/6.png)
 
+![7](./assets/7.png)
 
 ### Model Architecture:
-![model-architecture](./assets/7.png)
+![model-architecture](./assets/architecture.png)
