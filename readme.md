@@ -1,4 +1,6 @@
 # Facial Landmark Detection using Deep CNN Model
+Implementation of a deep learning model that detects 138 facial landmark points from images. 
+The model integrates Convolutional Neural Networks (CNN) for feature extraction, Artificial Neural Networks (ANN) for feedforward processing, and Recurrent Neural Networks (RNN) for pattern recognition. 
 
 ### Trained Model Identifying Landmarks (Red Dots Indicate Reference Points):
 <div style="display: flex; gap: 10px;">
@@ -14,11 +16,9 @@
 ### Model Architecture:
 <img src="./assets/architecture.png" style="width: 300px;" alt="Model Architecture">
 
-
-This project implements a deep learning model that detects 138 facial landmark points from images. The model integrates Convolutional Neural Networks (CNN) for feature extraction, Artificial Neural Networks (ANN) for feedforward processing, and Recurrent Neural Networks (RNN) for pattern recognition. It is trained on the Helen Dataset, known for its high-resolution facial images and detailed annotations.
-
 ### Overview
 Facial landmark detection is crucial in various applications like facial recognition, emotion detection, and augmented reality. This project aims to accurately detect 138 facial landmarks by leveraging a hybrid neural network architecture that combines CNNs, ANNs, and RNNs.
+This model is trained on the Helen Dataset, known for its high-resolution facial images and detailed annotations.
 
 ### Features
 Multi-layer CNN for robust feature extraction from images.
