@@ -1,13 +1,15 @@
 # Facial Landmark Detection using Deep CNN Model
 
 ### Trained Model Identifying Landmarks (Red Dots Indicate Reference Points):
-<img src="./assets/1.png" style="width: 200px;" alt="Image 1">
-<img src="./assets/2.png" style="width: 200px;" alt="Image 2">
-<img src="./assets/3.png" style="width: 200px;" alt="Image 3">
-<img src="./assets/4.png" style="width: 200px;" alt="Image 4">
-<img src="./assets/5.png" style="width: 200px;" alt="Image 5">
-<img src="./assets/6.png" style="width: 200px;" alt="Image 6">
-<img src="./assets/7.png" style="width: 200px;" alt="Image 7">
+<div style="display: flex; gap: 10px;">
+    <img src="./assets/1.png" style="width: 200px;" alt="Image 1">
+    <img src="./assets/2.png" style="width: 200px;" alt="Image 2">
+    <img src="./assets/3.png" style="width: 200px;" alt="Image 3">
+    <img src="./assets/4.png" style="width: 200px;" alt="Image 4">
+    <img src="./assets/5.png" style="width: 200px;" alt="Image 5">
+    <img src="./assets/6.png" style="width: 200px;" alt="Image 6">
+    <img src="./assets/7.png" style="width: 200px;" alt="Image 7">
+</div>
 
 ### Model Architecture:
 <img src="./assets/architecture.png" style="width: 300px;" alt="Model Architecture">
