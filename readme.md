@@ -1,5 +1,21 @@
 # Facial Landmark Detection using Deep CNN Model
 
+### Pictures of Trained Model:
+<img src="./assets/1.png" style="width: 200px;" alt="Image 1">
+<img src="./assets/2.png" style="width: 200px;" alt="Image 2">
+
+<img src="./assets/3.png" style="width: 200px;" alt="Image 3">
+<img src="./assets/4.png" style="width: 200px;" alt="Image 4">
+
+<img src="./assets/5.png" style="width: 200px;" alt="Image 5">
+<img src="./assets/6.png" style="width: 200px;" alt="Image 6">
+
+<img src="./assets/7.png" style="width: 200px;" alt="Image 7">
+
+### Model Architecture:
+<img src="./assets/architecture.png" style="width: 500px;" alt="Model Architecture">
+
+
 This project implements a deep learning model that detects 138 facial landmark points from images. The model integrates Convolutional Neural Networks (CNN) for feature extraction, Artificial Neural Networks (ANN) for feedforward processing, and Recurrent Neural Networks (RNN) for pattern recognition. It is trained on the Helen Dataset, known for its high-resolution facial images and detailed annotations.
 
 ### Overview
@@ -23,18 +39,3 @@ Matplotlib
 
 ### Acknowledgments
 Helen Dataset Authors: For providing a comprehensive dataset.
-
-### Pictures of Trained Model:
-<img src="./assets/1.png" style="width: 200px;" alt="Image 1">
-<img src="./assets/2.png" style="width: 200px;" alt="Image 2">
-
-<img src="./assets/3.png" style="width: 200px;" alt="Image 3">
-<img src="./assets/4.png" style="width: 200px;" alt="Image 4">
-
-<img src="./assets/5.png" style="width: 200px;" alt="Image 5">
-<img src="./assets/6.png" style="width: 200px;" alt="Image 6">
-
-<img src="./assets/7.png" style="width: 200px;" alt="Image 7">
-
-### Model Architecture:
-<img src="./assets/architecture.png" style="width: 500px;" alt="Model Architecture">
