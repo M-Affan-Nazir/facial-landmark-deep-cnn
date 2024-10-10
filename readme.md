@@ -25,13 +25,16 @@ Matplotlib
 Helen Dataset Authors: For providing a comprehensive dataset.
 
 ### Pictures of Trained Model:
-![1](./assets/1.png) ![2](./assets/2.png)
+<img src="./assets/1.png" style="width: 200px;" alt="Image 1">
+<img src="./assets/2.png" style="width: 200px;" alt="Image 2">
 
-![3](./assets/3.png) ![4](./assets/4.png)
+<img src="./assets/3.png" style="width: 200px;" alt="Image 3">
+<img src="./assets/4.png" style="width: 200px;" alt="Image 4">
 
-![5](./assets/5.png) ![6](./assets/6.png)
+<img src="./assets/5.png" style="width: 200px;" alt="Image 5">
+<img src="./assets/6.png" style="width: 200px;" alt="Image 6">
 
-![7](./assets/7.png)
+<img src="./assets/7.png" style="width: 200px;" alt="Image 7">
 
 ### Model Architecture:
-![model-architecture](./assets/architecture.png)
+<img src="./assets/architecture.png" style="width: 500px;" alt="Model Architecture">
