@@ -1,7 +1,7 @@
 # Facial Landmark Detection using Deep CNN Model
 
 ### Pictures of Trained Model:
-<img src="./assets/1.png" style="width: 200px;" alt="Image 1">
+<img src="./assets/1.png" style="width: 300px;" alt="Image 1">
 <img src="./assets/2.png" style="width: 200px;" alt="Image 2">
 
 <img src="./assets/3.png" style="width: 200px;" alt="Image 3">
